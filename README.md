@@ -8,7 +8,7 @@
 
 ## Recursos y Enlaces Importantes 🌐
 
-- **Sitio Web Principal**: [elriodecaca.lol](https://elriodecaca.lol)
+- **Sitio Web Principal**: [elriodecaca.lol](https://elriodecaca.lol/mopwave)
 - **Comunidad en ReVolt**: [Únete a la Comunidad](https://rvlt.gg/Q1bfD0nw)
 
 ## Contribuciones y Soporte 🔧
@@ -26,7 +26,3 @@
 - **Interfaz de Usuario Parametrizable**: La interfaz del software está basada en un lenguaje de descripción altamente configurable, permitiendo una personalización extensiva a través de scripts y archivos de configuración.
 
 - **Seguridad y Criptografía Avanzada**: Incorpora métodos de cifrado avanzado y criptografía post-cuántica para garantizar una protección robusta contra amenazas y vulnerabilidades cibernéticas.
-
----
-
-# **MopWave Lab**: **El epítome de la excelencia en tecnología de transmisión en tiempo real.** 🌟🌐
